@@ -11,11 +11,12 @@ Step 2) Go to Content Manager Settings -> Assetto Corsa -> Apps -> make sure 'Tw
 
 ## How to Set Up the Server Client:
 
-Step 0) Make sure you have Python 3.8.6 installed and that you have added Python to your systems PATH variable. (instructions below)
+Step 0) Make sure you have Python 3.8.6 installed and that you have added Python to your systems PATH variable.
 	
 	https://www.python.org/downloads/release/python-386/ 
 
-	(download is at the bottom of the page; select the 'Windows x86-64 executable installer' if you have 64-bit Windows or the 
+	(download is at the bottom of the page; select the 'Windows x86-64 executable installer' 
+	if you have 64-bit Windows or the 
 	'Windows x86 executable installer' if you have 32-bit Windows.)
 
 	1) Open the installer, click 'Customize Installation'.
