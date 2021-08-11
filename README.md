@@ -1,12 +1,15 @@
-TO INSTALL THE APP
+# Description
+
+Kind of a hacky workaround to utilize the newest Twitch API based on WebSockets. Since Assetto Corsa apps only utilize Python 3.3.5 at the latest, this workaround launches a python 3.8 shell outside of the game to handle communication with the Twitch API and relaying this info to the in-game app.
+
+## How to Install the AC App
 
 Step 1) Open the zip file and drag the twitchChannelPoints folder into assettocorsa\apps\python
 
 Step 2) Go to Content Manager Settings -> Assetto Corsa -> Apps -> make sure 'Twitch Channel Points' is checked and enabled.
 
-----------------------
 
-TO SET UP THE SERVER:
+## How to Set Up the Server Client:
 
 Step 0) Make sure you have Python 3.8.6 installed and that you have added Python to your systems PATH variable. (instructions below)
 	
