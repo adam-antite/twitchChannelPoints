@@ -1,4 +1,5 @@
-# Description
+Description
+
 Kind of a hacky workaround to utilize the newest Twitch API based on WebSockets. Since Assetto Corsa apps only utilize Python 3.3.5 at the latest, this workaround launches a python 3.8 shell outside of the game to handle communication with the Twitch API and relaying this info to the in-game app.
 
 
